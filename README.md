@@ -12,7 +12,7 @@ teams to ship things that move the needle.
 ## Impact
 - 🚀 R44M+ net profit growth — Retail Media platform, PicknPay
 - 📈 65,000+ registered users — wyzeHUB platform, Old Mutual
-- 🤖 Shipped 3 conversational AI bots through a fintech partnership
+- 🤖 Shipped 3+ conversational AI bots through a fintech partnership
 - ⭐ Grew Google Business Rating from 1.7 → 3.8 through CX initiatives
 
 ## Tools I work in
